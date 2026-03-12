@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "MAGIC WAYS",
+  "base_artist": "Nulbarich",
+  "createdAt": "2026-03-12T01:57:46.090660Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "MAGIC WAYS",
+      "artist": "Nulbarich",
+      "has_synced": true,
+      "path": "select/01_MAGIC_WAYS_Nulbarich.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Magic Ways",
+      "artist": "Tatsuro Yamashita",
+      "has_synced": true,
+      "path": "select/02_Magic_Ways_Tatsuro_Yamashita.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Magic Ways (feat. Rook1e)",
+      "artist": "aceydoesmusic",
+      "has_synced": false,
+      "path": "select/03_Magic_Ways_(feat._Rook1e)_aceydoesmusic.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Magic Ways",
+      "artist": "Matcha Fever",
+      "has_synced": true,
+      "path": "select/04_Magic_Ways_Matcha_Fever.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Miracle Vell Magic / Ways to Be Wicked",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/05_Miracle_Vell_Magic___Ways_to_Be_Wicked_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Kind Of Magic - Remastered 2011",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/06_A_Kind_Of_Magic_-_Remastered_2011_Queen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "We Must Believe In Magic",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/07_We_Must_Believe_In_Magic_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Light & Magic",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/08_Light_&_Magic_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Light & Magic - Alternate Version",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/09_Light_&_Magic_-_Alternate_Version_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Light & Magic (Live In Sofia)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/10_Light_&_Magic_(Live_In_Sofia)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blacks Magic",
+      "artist": "Salt-N-Pepa",
+      "has_synced": false,
+      "path": "select/11_Blacks_Magic_Salt-N-Pepa.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Magic Stick",
+      "artist": "Lil' Kim feat. 50 Cent",
+      "has_synced": false,
+      "path": "select/12_Magic_Stick_Lil'_Kim_feat._50_Cent.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Magic Dance (Danny S Magic Party Remix)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/13_Magic_Dance_(Danny_S_Magic_Party_Remix)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Magic Dance (Danny's Magic Party Remix)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/14_Magic_Dance_(Danny's_Magic_Party_Remix)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Evil Black Magic",
+      "artist": "Zumpano",
+      "has_synced": false,
+      "path": "select/15_Evil_Black_Magic_Zumpano.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Magic",
+      "artist": "Yung Gravy",
+      "has_synced": true,
+      "path": "select/16_Magic_Yung_Gravy.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Magic Beat",
+      "artist": "YACHT",
+      "has_synced": false,
+      "path": "select/17_The_Magic_Beat_YACHT.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Your Magic Is Real",
+      "artist": "YACHT",
+      "has_synced": false,
+      "path": "select/18_Your_Magic_Is_Real_YACHT.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "As If By Magic",
+      "artist": "La Roux",
+      "has_synced": true,
+      "path": "select/19_As_If_By_Magic_La_Roux.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Magic Stick (Feat. 50 Cent)",
+      "artist": "Lil' Kim",
+      "has_synced": true,
+      "path": "select/20_Magic_Stick_(Feat._50_Cent)_Lil'_Kim.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "A Kind Of Magic",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/21_A_Kind_Of_Magic_Queen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MAGIC WAYS",
+      "artist": "Nulbarich",
+      "has_synced": false,
+      "path": "select/pl_01_MAGIC_WAYS_Nulbarich.txt"
+    }
+  ]
+}
